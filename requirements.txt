@@ -1,0 +1,10 @@
+mlflow
+pandas
+numpy
+scikit-learn
+xgboost
+hyperopt
+imbalanced-learn
+matplotlib
+seaborn
+setuptools
